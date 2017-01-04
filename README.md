@@ -1,5 +1,5 @@
 # Apache Storm Tweet Processor
-Multiple Apache Storm applications to process tweets
+Multiple Apache Storm applications to process tweets in both local mode and in a hadoop cluster.
 
 ## Twitter API
 
@@ -10,6 +10,7 @@ You can start by filling your credentials in PrintSampleStream.java topology. It
 A part of this application creates a new topology which collects around 500000 english tweets that contain certain keywords provided in the application.
 
 The topology is as follows : 
+
 1. TwitterSampleSpout (Connects to twitter API and emits tweets that match keywords)
 2. TweetCountBolt (Keeps a count of tweets emitted so far by the TwitterSampleSpout. Kills the topology after processing 500000 tweets).
 3. HdfsBolt (Writes tuples to HDFS)

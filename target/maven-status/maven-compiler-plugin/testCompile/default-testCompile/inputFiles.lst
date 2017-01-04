@@ -1,8 +1,0 @@
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/RankableObjectWithFieldsTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/SlidingWindowCounterTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/SlotBasedCounterTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/RankingsTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/RollingCountBoltTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/TotalRankingsBoltTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
-/Users/ashishvshenoy/CS838/assignment2/question_c/apache-storm-1.0.2/examples/storm-starter/test/jvm/org/apache/storm/starter/bolt/IntermediateRankingsBoltTest.java

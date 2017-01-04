@@ -1,0 +1,1 @@
+~/software/apache-storm-1.0.2/bin/storm jar ~/assignment2/question_c/storm-starter-1.0.2.jar storm.starter.CS838Assignment2PartC1 uyy7ZV8sGURRzssY6NsYEJc0Z bCXjFJCUTqFfhhzBYLHZo0tfGw5CKUR3xsKKYpdNS6Pn6csgAB 48625888-OJRVswIYWIPzpokGhyGeulaqj2KaucR7sxXlUfvyo mlhS8AWL5iJxZYiInmkctDVK1MpMmL7aEZHkIJg0I3Tdg false /home/ubuntu/tweets/tweets.txt 
